@@ -10,6 +10,4 @@
 
 - Create a taco shop webiste looking at the exmaples in the examples folder.
 
-
-HTML Basics Course: 
-[HTML Full Course for Beginners](youtube.com/watch?v=mJgBOIoGihA&t=12793s)
+[HTML Basics Course](youtube.com/watch?v=mJgBOIoGihA&t=12793s)
