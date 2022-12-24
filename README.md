@@ -12,4 +12,4 @@
 
 
 HTML Basics Course: 
-(HTML Full Course for Beginners)[youtube.com/watch?v=mJgBOIoGihA&t=12793s]
+[HTML Full Course for Beginners](youtube.com/watch?v=mJgBOIoGihA&t=12793s)
